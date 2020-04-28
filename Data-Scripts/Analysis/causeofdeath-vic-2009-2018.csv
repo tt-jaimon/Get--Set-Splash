@@ -1,0 +1,481 @@
+,Cause of death and ICD-10 code,Gender,Deaths,year
+0,accident to watercraft causing drowning and submersion (v90),Male,1,2009
+1,water-transport-related drowning and submersion without accident to watercraft (v92),Male,2,2009
+2,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Male,0,2009
+3,diving or jumping into water causing injury other than drowning or submersion (w16),Male,0,2009
+4,accidental drowning and submersion (w65-w74),Male,19,2009
+5,drowning and submersion while in bath-tub (w65),Male,3,2009
+6,drowning and submersion following fall into bath-tub (w66),Male,0,2009
+7,drowning and submersion while in swimming-pool (w67),Male,1,2009
+8,drowning and submersion following fall into swimming-pool (w68),Male,0,2009
+9,drowning and submersion while in natural water (w69),Male,11,2009
+10,drowning and submersion following fall into natural water (w70),Male,1,2009
+11,other specified drowning and submersion (w73),Male,0,2009
+12,unspecified drowning and submersion (w74),Male,2,2009
+13,intentional self-harm by drowning and submersion (x71),Male,6,2009
+14,assault by drowning and submersion (x92),Male,0,2009
+15,"drowning and submersion, undetermined intent (y21)",Male,3,2009
+16,accident to watercraft causing drowning and submersion (v90),Female,0,2009
+17,water-transport-related drowning and submersion without accident to watercraft (v92),Female,0,2009
+18,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Female,0,2009
+19,diving or jumping into water causing injury other than drowning or submersion (w16),Female,0,2009
+20,accidental drowning and submersion (w65-w74),Female,3,2009
+21,drowning and submersion while in bath-tub (w65),Female,1,2009
+22,drowning and submersion following fall into bath-tub (w66),Female,0,2009
+23,drowning and submersion while in swimming-pool (w67),Female,0,2009
+24,drowning and submersion following fall into swimming-pool (w68),Female,0,2009
+25,drowning and submersion while in natural water (w69),Female,3,2009
+26,drowning and submersion following fall into natural water (w70),Female,0,2009
+27,other specified drowning and submersion (w73),Female,0,2009
+28,unspecified drowning and submersion (w74),Female,0,2009
+29,intentional self-harm by drowning and submersion (x71),Female,5,2009
+30,assault by drowning and submersion (x92),Female,0,2009
+31,"drowning and submersion, undetermined intent (y21)",Female,1,2009
+32,accident to watercraft causing drowning and submersion (v90),Person,1,2009
+33,water-transport-related drowning and submersion without accident to watercraft (v92),Person,3,2009
+34,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Person,0,2009
+35,diving or jumping into water causing injury other than drowning or submersion (w16),Person,0,2009
+36,accidental drowning and submersion (w65-w74),Person,21,2009
+37,drowning and submersion while in bath-tub (w65),Person,1,2009
+38,drowning and submersion following fall into bath-tub (w66),Person,0,2009
+39,drowning and submersion while in swimming-pool (w67),Person,4,2009
+40,drowning and submersion following fall into swimming-pool (w68),Person,0,2009
+41,drowning and submersion while in natural water (w69),Person,12,2009
+42,drowning and submersion following fall into natural water (w70),Person,1,2009
+43,other specified drowning and submersion (w73),Person,0,2009
+44,unspecified drowning and submersion (w74),Person,4,2009
+45,intentional self-harm by drowning and submersion (x71),Person,11,2009
+46,assault by drowning and submersion (x92),Person,0,2009
+47,"drowning and submersion, undetermined intent (y21)",Person,4,2009
+48,accident to watercraft causing drowning and submersion (v90),Male,1,2010
+49,water-transport-related drowning and submersion without accident to watercraft (v92),Male,0,2010
+50,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Male,0,2010
+51,diving or jumping into water causing injury other than drowning or submersion (w16),Male,3,2010
+52,accidental drowning and submersion (w65-w74),Male,30,2010
+53,drowning and submersion while in bath-tub (w65),Male,1,2010
+54,drowning and submersion following fall into bath-tub (w66),Male,0,2010
+55,drowning and submersion while in swimming-pool (w67),Male,4,2010
+56,drowning and submersion following fall into swimming-pool (w68),Male,3,2010
+57,drowning and submersion while in natural water (w69),Male,13,2010
+58,drowning and submersion following fall into natural water (w70),Male,1,2010
+59,other specified drowning and submersion (w73),Male,4,2010
+60,unspecified drowning and submersion (w74),Male,3,2010
+61,intentional self-harm by drowning and submersion (x71),Male,1,2010
+62,assault by drowning and submersion (x92),Male,0,2010
+63,"drowning and submersion, undetermined intent (y21)",Male,1,2010
+64,accident to watercraft causing drowning and submersion (v90),Female,0,2010
+65,water-transport-related drowning and submersion without accident to watercraft (v92),Female,0,2010
+66,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Female,0,2010
+67,diving or jumping into water causing injury other than drowning or submersion (w16),Female,0,2010
+68,accidental drowning and submersion (w65-w74),Female,7,2010
+69,drowning and submersion while in bath-tub (w65),Female,0,2010
+70,drowning and submersion following fall into bath-tub (w66),Female,0,2010
+71,drowning and submersion while in swimming-pool (w67),Female,1,2010
+72,drowning and submersion following fall into swimming-pool (w68),Female,0,2010
+73,drowning and submersion while in natural water (w69),Female,4,2010
+74,drowning and submersion following fall into natural water (w70),Female,3,2010
+75,other specified drowning and submersion (w73),Female,4,2010
+76,unspecified drowning and submersion (w74),Female,1,2010
+77,intentional self-harm by drowning and submersion (x71),Female,3,2010
+78,assault by drowning and submersion (x92),Female,0,2010
+79,"drowning and submersion, undetermined intent (y21)",Female,4,2010
+80,accident to watercraft causing drowning and submersion (v90),Person,3,2010
+81,water-transport-related drowning and submersion without accident to watercraft (v92),Person,0,2010
+82,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Person,0,2010
+83,diving or jumping into water causing injury other than drowning or submersion (w16),Person,1,2010
+84,accidental drowning and submersion (w65-w74),Person,37,2010
+85,drowning and submersion while in bath-tub (w65),Person,1,2010
+86,drowning and submersion following fall into bath-tub (w66),Person,0,2010
+87,drowning and submersion while in swimming-pool (w67),Person,1,2010
+88,drowning and submersion following fall into swimming-pool (w68),Person,3,2010
+89,drowning and submersion while in natural water (w69),Person,16,2010
+90,drowning and submersion following fall into natural water (w70),Person,5,2010
+91,other specified drowning and submersion (w73),Person,4,2010
+92,unspecified drowning and submersion (w74),Person,1,2010
+93,intentional self-harm by drowning and submersion (x71),Person,5,2010
+94,assault by drowning and submersion (x92),Person,0,2010
+95,"drowning and submersion, undetermined intent (y21)",Person,6,2010
+96,accident to watercraft causing drowning and submersion (v90),Male,4,2011
+97,water-transport-related drowning and submersion without accident to watercraft (v92),Male,4,2011
+98,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Male,0,2011
+99,diving or jumping into water causing injury other than drowning or submersion (w16),Male,0,2011
+100,accidental drowning and submersion (w65-w74),Male,21,2011
+101,drowning and submersion while in bath-tub (w65),Male,0,2011
+102,drowning and submersion following fall into bath-tub (w66),Male,0,2011
+103,drowning and submersion while in swimming-pool (w67),Male,0,2011
+104,drowning and submersion following fall into swimming-pool (w68),Male,0,2011
+105,drowning and submersion while in natural water (w69),Male,15,2011
+106,drowning and submersion following fall into natural water (w70),Male,4,2011
+107,other specified drowning and submersion (w73),Male,4,2011
+108,unspecified drowning and submersion (w74),Male,2,2011
+109,intentional self-harm by drowning and submersion (x71),Male,11,2011
+110,assault by drowning and submersion (x92),Male,0,2011
+111,"drowning and submersion, undetermined intent (y21)",Male,4,2011
+112,accident to watercraft causing drowning and submersion (v90),Female,1,2011
+113,water-transport-related drowning and submersion without accident to watercraft (v92),Female,0,2011
+114,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Female,0,2011
+115,diving or jumping into water causing injury other than drowning or submersion (w16),Female,0,2011
+116,accidental drowning and submersion (w65-w74),Female,3,2011
+117,drowning and submersion while in bath-tub (w65),Female,4,2011
+118,drowning and submersion following fall into bath-tub (w66),Female,0,2011
+119,drowning and submersion while in swimming-pool (w67),Female,0,2011
+120,drowning and submersion following fall into swimming-pool (w68),Female,0,2011
+121,drowning and submersion while in natural water (w69),Female,2,2011
+122,drowning and submersion following fall into natural water (w70),Female,0,2011
+123,other specified drowning and submersion (w73),Female,0,2011
+124,unspecified drowning and submersion (w74),Female,0,2011
+125,intentional self-harm by drowning and submersion (x71),Female,4,2011
+126,assault by drowning and submersion (x92),Female,0,2011
+127,"drowning and submersion, undetermined intent (y21)",Female,3,2011
+128,accident to watercraft causing drowning and submersion (v90),Person,1,2011
+129,water-transport-related drowning and submersion without accident to watercraft (v92),Person,2,2011
+130,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Person,0,2011
+131,diving or jumping into water causing injury other than drowning or submersion (w16),Person,0,2011
+132,accidental drowning and submersion (w65-w74),Person,24,2011
+133,drowning and submersion while in bath-tub (w65),Person,3,2011
+134,drowning and submersion following fall into bath-tub (w66),Person,0,2011
+135,drowning and submersion while in swimming-pool (w67),Person,0,2011
+136,drowning and submersion following fall into swimming-pool (w68),Person,0,2011
+137,drowning and submersion while in natural water (w69),Person,17,2011
+138,drowning and submersion following fall into natural water (w70),Person,1,2011
+139,other specified drowning and submersion (w73),Person,3,2011
+140,unspecified drowning and submersion (w74),Person,1,2011
+141,intentional self-harm by drowning and submersion (x71),Person,12,2011
+142,assault by drowning and submersion (x92),Person,0,2011
+143,"drowning and submersion, undetermined intent (y21)",Person,5,2011
+144,accident to watercraft causing drowning and submersion (v90),Male,3,2012
+145,water-transport-related drowning and submersion without accident to watercraft (v92),Male,0,2012
+146,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Male,0,2012
+147,diving or jumping into water causing injury other than drowning or submersion (w16),Male,4,2012
+148,accidental drowning and submersion (w65-w74),Male,24,2012
+149,drowning and submersion while in bath-tub (w65),Male,0,2012
+150,drowning and submersion following fall into bath-tub (w66),Male,0,2012
+151,drowning and submersion while in swimming-pool (w67),Male,4,2012
+152,drowning and submersion following fall into swimming-pool (w68),Male,2,2012
+153,drowning and submersion while in natural water (w69),Male,13,2012
+154,drowning and submersion following fall into natural water (w70),Male,4,2012
+155,other specified drowning and submersion (w73),Male,1,2012
+156,unspecified drowning and submersion (w74),Male,1,2012
+157,intentional self-harm by drowning and submersion (x71),Male,7,2012
+158,assault by drowning and submersion (x92),Male,0,2012
+159,"drowning and submersion, undetermined intent (y21)",Male,2,2012
+160,accident to watercraft causing drowning and submersion (v90),Female,2,2012
+161,water-transport-related drowning and submersion without accident to watercraft (v92),Female,3,2012
+162,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Female,0,2012
+163,diving or jumping into water causing injury other than drowning or submersion (w16),Female,0,2012
+164,accidental drowning and submersion (w65-w74),Female,6,2012
+165,drowning and submersion while in bath-tub (w65),Female,1,2012
+166,drowning and submersion following fall into bath-tub (w66),Female,0,2012
+167,drowning and submersion while in swimming-pool (w67),Female,0,2012
+168,drowning and submersion following fall into swimming-pool (w68),Female,0,2012
+169,drowning and submersion while in natural water (w69),Female,1,2012
+170,drowning and submersion following fall into natural water (w70),Female,4,2012
+171,other specified drowning and submersion (w73),Female,3,2012
+172,unspecified drowning and submersion (w74),Female,0,2012
+173,intentional self-harm by drowning and submersion (x71),Female,3,2012
+174,assault by drowning and submersion (x92),Female,0,2012
+175,"drowning and submersion, undetermined intent (y21)",Female,3,2012
+176,accident to watercraft causing drowning and submersion (v90),Person,5,2012
+177,water-transport-related drowning and submersion without accident to watercraft (v92),Person,3,2012
+178,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Person,0,2012
+179,diving or jumping into water causing injury other than drowning or submersion (w16),Person,2,2012
+180,accidental drowning and submersion (w65-w74),Person,30,2012
+181,drowning and submersion while in bath-tub (w65),Person,4,2012
+182,drowning and submersion following fall into bath-tub (w66),Person,0,2012
+183,drowning and submersion while in swimming-pool (w67),Person,2,2012
+184,drowning and submersion following fall into swimming-pool (w68),Person,4,2012
+185,drowning and submersion while in natural water (w69),Person,15,2012
+186,drowning and submersion following fall into natural water (w70),Person,5,2012
+187,other specified drowning and submersion (w73),Person,6,2012
+188,unspecified drowning and submersion (w74),Person,3,2012
+189,intentional self-harm by drowning and submersion (x71),Person,8,2012
+190,assault by drowning and submersion (x92),Person,0,2012
+191,"drowning and submersion, undetermined intent (y21)",Person,3,2012
+192,accident to watercraft causing drowning and submersion (v90),Male,0,2013
+193,water-transport-related drowning and submersion without accident to watercraft (v92),Male,0,2013
+194,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Male,0,2013
+195,diving or jumping into water causing injury other than drowning or submersion (w16),Male,0,2013
+196,accidental drowning and submersion (w65-w74),Male,22,2013
+197,drowning and submersion while in bath-tub (w65),Male,0,2013
+198,drowning and submersion following fall into bath-tub (w66),Male,3,2013
+199,drowning and submersion while in swimming-pool (w67),Male,0,2013
+200,drowning and submersion following fall into swimming-pool (w68),Male,0,2013
+201,drowning and submersion while in natural water (w69),Male,16,2013
+202,drowning and submersion following fall into natural water (w70),Male,2,2013
+203,other specified drowning and submersion (w73),Male,0,2013
+204,unspecified drowning and submersion (w74),Male,4,2013
+205,intentional self-harm by drowning and submersion (x71),Male,8,2013
+206,assault by drowning and submersion (x92),Male,0,2013
+207,"drowning and submersion, undetermined intent (y21)",Male,0,2013
+208,accident to watercraft causing drowning and submersion (v90),Female,0,2013
+209,water-transport-related drowning and submersion without accident to watercraft (v92),Female,0,2013
+210,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Female,2,2013
+211,diving or jumping into water causing injury other than drowning or submersion (w16),Female,0,2013
+212,accidental drowning and submersion (w65-w74),Female,8,2013
+213,drowning and submersion while in bath-tub (w65),Female,0,2013
+214,drowning and submersion following fall into bath-tub (w66),Female,0,2013
+215,drowning and submersion while in swimming-pool (w67),Female,2,2013
+216,drowning and submersion following fall into swimming-pool (w68),Female,3,2013
+217,drowning and submersion while in natural water (w69),Female,2,2013
+218,drowning and submersion following fall into natural water (w70),Female,4,2013
+219,other specified drowning and submersion (w73),Female,4,2013
+220,unspecified drowning and submersion (w74),Female,0,2013
+221,intentional self-harm by drowning and submersion (x71),Female,5,2013
+222,assault by drowning and submersion (x92),Female,0,2013
+223,"drowning and submersion, undetermined intent (y21)",Female,3,2013
+224,accident to watercraft causing drowning and submersion (v90),Person,0,2013
+225,water-transport-related drowning and submersion without accident to watercraft (v92),Person,0,2013
+226,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Person,4,2013
+227,diving or jumping into water causing injury other than drowning or submersion (w16),Person,0,2013
+228,accidental drowning and submersion (w65-w74),Person,30,2013
+229,drowning and submersion while in bath-tub (w65),Person,0,2013
+230,drowning and submersion following fall into bath-tub (w66),Person,4,2013
+231,drowning and submersion while in swimming-pool (w67),Person,3,2013
+232,drowning and submersion following fall into swimming-pool (w68),Person,3,2013
+233,drowning and submersion while in natural water (w69),Person,19,2013
+234,drowning and submersion following fall into natural water (w70),Person,5,2013
+235,other specified drowning and submersion (w73),Person,1,2013
+236,unspecified drowning and submersion (w74),Person,3,2013
+237,intentional self-harm by drowning and submersion (x71),Person,13,2013
+238,assault by drowning and submersion (x92),Person,0,2013
+239,"drowning and submersion, undetermined intent (y21)",Person,2,2013
+240,accident to watercraft causing drowning and submersion (v90),Male,3,2014
+241,water-transport-related drowning and submersion without accident to watercraft (v92),Male,1,2014
+242,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Male,0,2014
+243,diving or jumping into water causing injury other than drowning or submersion (w16),Male,2,2014
+244,accidental drowning and submersion (w65-w74),Male,34,2014
+245,drowning and submersion while in bath-tub (w65),Male,4,2014
+246,drowning and submersion following fall into bath-tub (w66),Male,0,2014
+247,drowning and submersion while in swimming-pool (w67),Male,6,2014
+248,drowning and submersion following fall into swimming-pool (w68),Male,0,2014
+249,drowning and submersion while in natural water (w69),Male,18,2014
+250,drowning and submersion following fall into natural water (w70),Male,7,2014
+251,other specified drowning and submersion (w73),Male,0,2014
+252,unspecified drowning and submersion (w74),Male,4,2014
+253,intentional self-harm by drowning and submersion (x71),Male,8,2014
+254,assault by drowning and submersion (x92),Male,0,2014
+255,"drowning and submersion, undetermined intent (y21)",Male,3,2014
+256,accident to watercraft causing drowning and submersion (v90),Female,0,2014
+257,water-transport-related drowning and submersion without accident to watercraft (v92),Female,0,2014
+258,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Female,3,2014
+259,diving or jumping into water causing injury other than drowning or submersion (w16),Female,0,2014
+260,accidental drowning and submersion (w65-w74),Female,8,2014
+261,drowning and submersion while in bath-tub (w65),Female,3,2014
+262,drowning and submersion following fall into bath-tub (w66),Female,0,2014
+263,drowning and submersion while in swimming-pool (w67),Female,0,2014
+264,drowning and submersion following fall into swimming-pool (w68),Female,3,2014
+265,drowning and submersion while in natural water (w69),Female,1,2014
+266,drowning and submersion following fall into natural water (w70),Female,4,2014
+267,other specified drowning and submersion (w73),Female,0,2014
+268,unspecified drowning and submersion (w74),Female,2,2014
+269,intentional self-harm by drowning and submersion (x71),Female,5,2014
+270,assault by drowning and submersion (x92),Female,0,2014
+271,"drowning and submersion, undetermined intent (y21)",Female,2,2014
+272,accident to watercraft causing drowning and submersion (v90),Person,2,2014
+273,water-transport-related drowning and submersion without accident to watercraft (v92),Person,2,2014
+274,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Person,4,2014
+275,diving or jumping into water causing injury other than drowning or submersion (w16),Person,4,2014
+276,accidental drowning and submersion (w65-w74),Person,42,2014
+277,drowning and submersion while in bath-tub (w65),Person,4,2014
+278,drowning and submersion following fall into bath-tub (w66),Person,0,2014
+279,drowning and submersion while in swimming-pool (w67),Person,6,2014
+280,drowning and submersion following fall into swimming-pool (w68),Person,4,2014
+281,drowning and submersion while in natural water (w69),Person,21,2014
+282,drowning and submersion following fall into natural water (w70),Person,8,2014
+283,other specified drowning and submersion (w73),Person,0,2014
+284,unspecified drowning and submersion (w74),Person,1,2014
+285,intentional self-harm by drowning and submersion (x71),Person,13,2014
+286,assault by drowning and submersion (x92),Person,0,2014
+287,"drowning and submersion, undetermined intent (y21)",Person,3,2014
+288,accident to watercraft causing drowning and submersion (v90),Male,5,2015
+289,water-transport-related drowning and submersion without accident to watercraft (v92),Male,5,2015
+290,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Male,1,2015
+291,diving or jumping into water causing injury other than drowning or submersion (w16),Male,0,2015
+292,accidental drowning and submersion (w65-w74),Male,22,2015
+293,drowning and submersion while in bath-tub (w65),Male,0,2015
+294,drowning and submersion following fall into bath-tub (w66),Male,0,2015
+295,drowning and submersion while in swimming-pool (w67),Male,1,2015
+296,drowning and submersion following fall into swimming-pool (w68),Male,3,2015
+297,drowning and submersion while in natural water (w69),Male,12,2015
+298,drowning and submersion following fall into natural water (w70),Male,5,2015
+299,other specified drowning and submersion (w73),Male,0,2015
+300,unspecified drowning and submersion (w74),Male,1,2015
+301,intentional self-harm by drowning and submersion (x71),Male,5,2015
+302,assault by drowning and submersion (x92),Male,0,2015
+303,"drowning and submersion, undetermined intent (y21)",Male,1,2015
+304,accident to watercraft causing drowning and submersion (v90),Female,0,2015
+305,water-transport-related drowning and submersion without accident to watercraft (v92),Female,0,2015
+306,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Female,0,2015
+307,diving or jumping into water causing injury other than drowning or submersion (w16),Female,0,2015
+308,accidental drowning and submersion (w65-w74),Female,1,2015
+309,drowning and submersion while in bath-tub (w65),Female,3,2015
+310,drowning and submersion following fall into bath-tub (w66),Female,2,2015
+311,drowning and submersion while in swimming-pool (w67),Female,0,2015
+312,drowning and submersion following fall into swimming-pool (w68),Female,1,2015
+313,drowning and submersion while in natural water (w69),Female,4,2015
+314,drowning and submersion following fall into natural water (w70),Female,0,2015
+315,other specified drowning and submersion (w73),Female,0,2015
+316,unspecified drowning and submersion (w74),Female,0,2015
+317,intentional self-harm by drowning and submersion (x71),Female,0,2015
+318,assault by drowning and submersion (x92),Female,0,2015
+319,"drowning and submersion, undetermined intent (y21)",Female,4,2015
+320,accident to watercraft causing drowning and submersion (v90),Person,5,2015
+321,water-transport-related drowning and submersion without accident to watercraft (v92),Person,5,2015
+322,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Person,2,2015
+323,diving or jumping into water causing injury other than drowning or submersion (w16),Person,0,2015
+324,accidental drowning and submersion (w65-w74),Person,26,2015
+325,drowning and submersion while in bath-tub (w65),Person,2,2015
+326,drowning and submersion following fall into bath-tub (w66),Person,4,2015
+327,drowning and submersion while in swimming-pool (w67),Person,3,2015
+328,drowning and submersion following fall into swimming-pool (w68),Person,1,2015
+329,drowning and submersion while in natural water (w69),Person,13,2015
+330,drowning and submersion following fall into natural water (w70),Person,5,2015
+331,other specified drowning and submersion (w73),Person,0,2015
+332,unspecified drowning and submersion (w74),Person,1,2015
+333,intentional self-harm by drowning and submersion (x71),Person,5,2015
+334,assault by drowning and submersion (x92),Person,0,2015
+335,"drowning and submersion, undetermined intent (y21)",Person,2,2015
+336,accident to watercraft causing drowning and submersion (v90),Male,2,2016
+337,water-transport-related drowning and submersion without accident to watercraft (v92),Male,5,2016
+338,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Male,0,2016
+339,diving or jumping into water causing injury other than drowning or submersion (w16),Male,4,2016
+340,accidental drowning and submersion (w65-w74),Male,24,2016
+341,drowning and submersion while in bath-tub (w65),Male,2,2016
+342,drowning and submersion following fall into bath-tub (w66),Male,0,2016
+343,drowning and submersion while in swimming-pool (w67),Male,3,2016
+344,drowning and submersion following fall into swimming-pool (w68),Male,4,2016
+345,drowning and submersion while in natural water (w69),Male,10,2016
+346,drowning and submersion following fall into natural water (w70),Male,3,2016
+347,other specified drowning and submersion (w73),Male,4,2016
+348,unspecified drowning and submersion (w74),Male,4,2016
+349,intentional self-harm by drowning and submersion (x71),Male,6,2016
+350,assault by drowning and submersion (x92),Male,0,2016
+351,"drowning and submersion, undetermined intent (y21)",Male,3,2016
+352,accident to watercraft causing drowning and submersion (v90),Female,0,2016
+353,water-transport-related drowning and submersion without accident to watercraft (v92),Female,2,2016
+354,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Female,0,2016
+355,diving or jumping into water causing injury other than drowning or submersion (w16),Female,0,2016
+356,accidental drowning and submersion (w65-w74),Female,9,2016
+357,drowning and submersion while in bath-tub (w65),Female,3,2016
+358,drowning and submersion following fall into bath-tub (w66),Female,0,2016
+359,drowning and submersion while in swimming-pool (w67),Female,1,2016
+360,drowning and submersion following fall into swimming-pool (w68),Female,3,2016
+361,drowning and submersion while in natural water (w69),Female,5,2016
+362,drowning and submersion following fall into natural water (w70),Female,0,2016
+363,other specified drowning and submersion (w73),Female,0,2016
+364,unspecified drowning and submersion (w74),Female,0,2016
+365,intentional self-harm by drowning and submersion (x71),Female,3,2016
+366,assault by drowning and submersion (x92),Female,0,2016
+367,"drowning and submersion, undetermined intent (y21)",Female,1,2016
+368,accident to watercraft causing drowning and submersion (v90),Person,4,2016
+369,water-transport-related drowning and submersion without accident to watercraft (v92),Person,6,2016
+370,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Person,0,2016
+371,diving or jumping into water causing injury other than drowning or submersion (w16),Person,4,2016
+372,accidental drowning and submersion (w65-w74),Person,33,2016
+373,drowning and submersion while in bath-tub (w65),Person,3,2016
+374,drowning and submersion following fall into bath-tub (w66),Person,0,2016
+375,drowning and submersion while in swimming-pool (w67),Person,2,2016
+376,drowning and submersion following fall into swimming-pool (w68),Person,4,2016
+377,drowning and submersion while in natural water (w69),Person,15,2016
+378,drowning and submersion following fall into natural water (w70),Person,3,2016
+379,other specified drowning and submersion (w73),Person,4,2016
+380,unspecified drowning and submersion (w74),Person,4,2016
+381,intentional self-harm by drowning and submersion (x71),Person,9,2016
+382,assault by drowning and submersion (x92),Person,0,2016
+383,"drowning and submersion, undetermined intent (y21)",Person,4,2016
+384,accident to watercraft causing drowning and submersion (v90),Male,0,2017
+385,water-transport-related drowning and submersion without accident to watercraft (v92),Male,1,2017
+386,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Male,0,2017
+387,diving or jumping into water causing injury other than drowning or submersion (w16),Male,0,2017
+388,accidental drowning and submersion (w65-w74),Male,20,2017
+389,drowning and submersion while in bath-tub (w65),Male,0,2017
+390,drowning and submersion following fall into bath-tub (w66),Male,3,2017
+391,drowning and submersion while in swimming-pool (w67),Male,3,2017
+392,drowning and submersion following fall into swimming-pool (w68),Male,0,2017
+393,drowning and submersion while in natural water (w69),Male,12,2017
+394,drowning and submersion following fall into natural water (w70),Male,3,2017
+395,other specified drowning and submersion (w73),Male,1,2017
+396,unspecified drowning and submersion (w74),Male,4,2017
+397,intentional self-harm by drowning and submersion (x71),Male,7,2017
+398,assault by drowning and submersion (x92),Male,0,2017
+399,"drowning and submersion, undetermined intent (y21)",Male,1,2017
+400,accident to watercraft causing drowning and submersion (v90),Female,0,2017
+401,water-transport-related drowning and submersion without accident to watercraft (v92),Female,0,2017
+402,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Female,0,2017
+403,diving or jumping into water causing injury other than drowning or submersion (w16),Female,0,2017
+404,accidental drowning and submersion (w65-w74),Female,5,2017
+405,drowning and submersion while in bath-tub (w65),Female,0,2017
+406,drowning and submersion following fall into bath-tub (w66),Female,0,2017
+407,drowning and submersion while in swimming-pool (w67),Female,0,2017
+408,drowning and submersion following fall into swimming-pool (w68),Female,1,2017
+409,drowning and submersion while in natural water (w69),Female,2,2017
+410,drowning and submersion following fall into natural water (w70),Female,3,2017
+411,other specified drowning and submersion (w73),Female,0,2017
+412,unspecified drowning and submersion (w74),Female,2,2017
+413,intentional self-harm by drowning and submersion (x71),Female,7,2017
+414,assault by drowning and submersion (x92),Female,0,2017
+415,"drowning and submersion, undetermined intent (y21)",Female,3,2017
+416,accident to watercraft causing drowning and submersion (v90),Person,0,2017
+417,water-transport-related drowning and submersion without accident to watercraft (v92),Person,2,2017
+418,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Person,0,2017
+419,diving or jumping into water causing injury other than drowning or submersion (w16),Person,0,2017
+420,accidental drowning and submersion (w65-w74),Person,25,2017
+421,drowning and submersion while in bath-tub (w65),Person,0,2017
+422,drowning and submersion following fall into bath-tub (w66),Person,1,2017
+423,drowning and submersion while in swimming-pool (w67),Person,3,2017
+424,drowning and submersion following fall into swimming-pool (w68),Person,2,2017
+425,drowning and submersion while in natural water (w69),Person,13,2017
+426,drowning and submersion following fall into natural water (w70),Person,5,2017
+427,other specified drowning and submersion (w73),Person,1,2017
+428,unspecified drowning and submersion (w74),Person,4,2017
+429,intentional self-harm by drowning and submersion (x71),Person,14,2017
+430,assault by drowning and submersion (x92),Person,0,2017
+431,"drowning and submersion, undetermined intent (y21)",Person,5,2017
+432,accident to watercraft causing drowning and submersion (v90),Male,1,2018
+433,water-transport-related drowning and submersion without accident to watercraft (v92),Male,2,2018
+434,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Male,0,2018
+435,diving or jumping into water causing injury other than drowning or submersion (w16),Male,0,2018
+436,accidental drowning and submersion (w65-w74),Male,19,2018
+437,drowning and submersion while in bath-tub (w65),Male,0,2018
+438,drowning and submersion following fall into bath-tub (w66),Male,3,2018
+439,drowning and submersion while in swimming-pool (w67),Male,0,2018
+440,drowning and submersion following fall into swimming-pool (w68),Male,1,2018
+441,drowning and submersion while in natural water (w69),Male,11,2018
+442,drowning and submersion following fall into natural water (w70),Male,4,2018
+443,other specified drowning and submersion (w73),Male,0,2018
+444,unspecified drowning and submersion (w74),Male,4,2018
+445,intentional self-harm by drowning and submersion (x71),Male,1,2018
+446,assault by drowning and submersion (x92),Male,0,2018
+447,"drowning and submersion, undetermined intent (y21)",Male,1,2018
+448,accident to watercraft causing drowning and submersion (v90),Female,0,2018
+449,water-transport-related drowning and submersion without accident to watercraft (v92),Female,4,2018
+450,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Female,0,2018
+451,diving or jumping into water causing injury other than drowning or submersion (w16),Female,0,2018
+452,accidental drowning and submersion (w65-w74),Female,6,2018
+453,drowning and submersion while in bath-tub (w65),Female,1,2018
+454,drowning and submersion following fall into bath-tub (w66),Female,0,2018
+455,drowning and submersion while in swimming-pool (w67),Female,2,2018
+456,drowning and submersion following fall into swimming-pool (w68),Female,0,2018
+457,drowning and submersion while in natural water (w69),Female,4,2018
+458,drowning and submersion following fall into natural water (w70),Female,3,2018
+459,other specified drowning and submersion (w73),Female,0,2018
+460,unspecified drowning and submersion (w74),Female,1,2018
+461,intentional self-harm by drowning and submersion (x71),Female,4,2018
+462,assault by drowning and submersion (x92),Female,0,2018
+463,"drowning and submersion, undetermined intent (y21)",Female,2,2018
+464,accident to watercraft causing drowning and submersion (v90),Person,4,2018
+465,water-transport-related drowning and submersion without accident to watercraft (v92),Person,3,2018
+466,"accident on board watercraft without accident to watercraft, not causing drowning and submersion (v93)",Person,0,2018
+467,diving or jumping into water causing injury other than drowning or submersion (w16),Person,0,2018
+468,accidental drowning and submersion (w65-w74),Person,25,2018
+469,drowning and submersion while in bath-tub (w65),Person,3,2018
+470,drowning and submersion following fall into bath-tub (w66),Person,3,2018
+471,drowning and submersion while in swimming-pool (w67),Person,2,2018
+472,drowning and submersion following fall into swimming-pool (w68),Person,4,2018
+473,drowning and submersion while in natural water (w69),Person,13,2018
+474,drowning and submersion following fall into natural water (w70),Person,3,2018
+475,other specified drowning and submersion (w73),Person,0,2018
+476,unspecified drowning and submersion (w74),Person,4,2018
+477,intentional self-harm by drowning and submersion (x71),Person,5,2018
+478,assault by drowning and submersion (x92),Person,0,2018
+479,"drowning and submersion, undetermined intent (y21)",Person,2,2018
